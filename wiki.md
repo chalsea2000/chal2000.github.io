@@ -21,7 +21,7 @@ The axolotl is quite unusual as they do not undergo **metamorphism** - process o
 ## Pokemon Representation
 There are some pokemons that take inspiration from real life animals, and axolotl happens to be one of the inspiration. **Wooper** is a blue amphibious pokemon representing an upright, armless axolotl. The below picture shows Wooper's image.
 
-![images](https://static.wikia.nocookie.net/sonicpokemon/images/f/f2/Wooper.jpg/revision/latest?cb=20130626041957)
+![images](https://static.wikia.nocookie.net/fiction-taxonomy/images/6/66/Wooper.PNG/revision/latest?cb=20210330015755)
 
 
 
